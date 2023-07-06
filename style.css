@@ -1,0 +1,21 @@
+.iconoMoneda {
+  font-size: 8em;
+  margin-right: 0.5em;
+  padding-left: 24px;
+  color: rgb(96, 94, 94);;
+  display: flex;
+  align-items: center;
+}
+  
+  .chart-container {
+    position: relative;
+    margin: auto;
+    height: 100%;
+    width: 100%;
+  }
+.estilo-card {
+    color: rgb(96, 94, 94);
+    background: rgb(245,251,86);
+background: linear-gradient(90deg, rgba(245,251,86,1) 0%, rgba(253,76,45,1) 100%);
+}
+  
